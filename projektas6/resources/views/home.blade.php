@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+{{-- naudojame tai kas parasyta faile layouts/app.blade.php--}}
+
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
